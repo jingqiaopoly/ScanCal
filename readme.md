@@ -15,6 +15,8 @@ This package has been tested under:
 - **MATLAB 2022a** and **MacOS 12.6 M1 Pro**
 - **MATLAB 2019a** and **Windows 10**
 
+**[Issues]** If you encounter any issues, I would be happy to help. 
+If you cannot find a related one in the existing issues, please open a new one. I will try my best to help!
 
 An overview of the PP-based calibration algorithm is shown in figure 1 below.
 
@@ -95,7 +97,9 @@ Thank you for citing our PP-based TLS calibration paper if you use any of this c
 ---
 
 ## Acknowledgements:
-Apart from the ones thanked in the above mentioned paper, we sincerely thank the group of Geo Tu Wien for sharing their point cloud processing tool http://www.geo.tuwien.ac.at/downloads/pg/pctools/pctools.html, which makes our work more efficient. 
+Apart from the ones thanked in the above mentioned paper, we sincerely thank the group of Geo Tu Wien for sharing 
+their point cloud processing tool http://www.geo.tuwien.ac.at/downloads/pg/pctools/pctools.html, 
+which makes our work more efficient. 
 
 Thanks also goes to Dr. Medic Tomislav for his codes on global test.
 
