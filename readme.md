@@ -1,7 +1,12 @@
-# User Manual of ScanCal Software
+# ScanCal
 
 ## Introduction:
-This repository contains code for a planar-patch-based TLS self-calibration algorithm. The software takes in raw point cloud from a TLS, extracts and weights high-quality planar patches (PPs), uses the PPs for scanner calibration model and pose parameter estimation. The output of the software are the estimated parameters, their precision, etc. 
+This repository contains code for a planar-patch-based TLS self-calibration algorithm, described in the paper: 
+**Self-calibration of terrestrial laser scanner using a M3C2-based planar patch algorithm** 
+[(link)](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000485). 
+The software takes in raw point cloud from a TLS, extracts and weights high-quality planar patches (PPs), 
+uses the PPs for scanner calibration model and pose parameter estimation. The output of the software are 
+the estimated parameters, their precision, etc. 
 
 The PDF document can be found in [docs](docs/PP%20codes%20document.pdf).
 
