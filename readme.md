@@ -28,6 +28,8 @@ Fig. 1 Overview of the PP-based scanner calibration algorithm
 
 ---
 ## How to use
+### Dependency:
+- Computer Vision Toolbox
 ### 1.	Project Settings and Data Preparation
 The related paths and parameter settings are defined in the script ProjectSettings:
 1)	**Paths**: define the base path and result path 
