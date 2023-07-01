@@ -12,6 +12,7 @@ The PDF document can be found in [docs](docs/PP%20codes%20document.pdf).
 
 This package has been tested under:
 
+- **MATLAB 2023a** and **MacOS 13.4.1 M1 Max**
 - **MATLAB 2022a** and **MacOS 12.6 M1 Pro**
 - **MATLAB 2019a** and **Windows 10**
 
